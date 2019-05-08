@@ -1,0 +1,44 @@
+/* add your CSS here */
+.resize {
+  width: 300px;
+  padding-right: 10px;
+  text-align: center;
+}
+.interesting{
+  font-style: italic;
+}
+body {
+  font-family: Palatino, sans-serif;
+  color: #ff66b3;
+}
+h3{
+  padding-bottom: 10px;
+}
+ul{
+  padding-left:0px;
+}
+li{
+  font-style: italic;
+  list-style: none;
+}
+li span {
+  font-weight: bold;
+  font-style: normal;
+}
+.wholebox{
+  flex-wrap: wrap;
+  width: 300px;
+  padding: 15px;
+  border: 1px solid lightgrey;
+  box-shadow: 6px 6px 0px #e6e6e6;
+}
+
+.information{
+  flex-wrap: wrap;
+  background-color: rgb(255, 230, 242);
+  margin-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 13px;
+  border: 1px solid lightgrey;
+}
