@@ -10,10 +10,10 @@ Once I had added my favorite animal's image and information, I had to add the pr
 
 ## Style rules
 The CSS should apply these styles to match the design prototype:
-	•	italicized text for the animal's interesting fact
-	•	bolded labels for the animal's list items (e.g. 'Habitat')
-	•	no dots for the animal's list items
-	•	border around the animal's name, image, and information
-	•	border around the animal's information
-	•	spacing between the animal's name, image, and information (you will need to use the property padding)
+• italicized text for the animal's interesting fact <br>
+• bolded labels for the animal's list items (e.g. 'Habitat') <br>
+• no dots for the animal's list items <br>
+• border around the animal's name, image, and information <br>
+• border around the animal's information <br>
+• spacing between the animal's name, image, and information (you will need to use the property padding)
 
